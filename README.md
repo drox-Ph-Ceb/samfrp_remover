@@ -1,3 +1,6 @@
+<img width="779" height="890" alt="image" src="https://github.com/user-attachments/assets/93d5c1db-aaff-446c-a0d6-bf381444e507" />
+
+
 Usage : odin4 [args...]
 Odin4 downloader. odin4 version 1.2.13
  -v        SHOW VERSION
